@@ -1,0 +1,87 @@
+{
+    "total": [
+        {
+            "id": "100038857273223",
+            "count": 77
+        },
+        {
+            "id": "100070640035117",
+            "count": 69
+        },
+        {
+            "id": "100077447330251",
+            "count": 36
+        },
+        {
+            "id": "100084352600974",
+            "count": 93
+        },
+        {
+            "id": "100001526796949",
+            "count": 2
+        },
+        {
+            "id": "100000074586911",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100038857273223",
+            "count": 77
+        },
+        {
+            "id": "100070640035117",
+            "count": 69
+        },
+        {
+            "id": "100077447330251",
+            "count": 36
+        },
+        {
+            "id": "100084352600974",
+            "count": 93
+        },
+        {
+            "id": "100001526796949",
+            "count": 2
+        },
+        {
+            "id": "100000074586911",
+            "count": 1
+        }
+    ],
+    "day": [
+        {
+            "id": "100038857273223",
+            "count": 0,
+            "name": "Minh Phương"
+        },
+        {
+            "id": "100070640035117",
+            "count": 1,
+            "name": "AN RF Suong"
+        },
+        {
+            "id": "100077447330251",
+            "count": 0,
+            "name": "Nguyễn Nguyễn Trà My"
+        },
+        {
+            "id": "100084352600974",
+            "count": 0,
+            "name": "Nguyễn Nhất Huy"
+        },
+        {
+            "id": "100001526796949",
+            "count": 0,
+            "name": "𓇻𓇬Dù E Có Sai Với Ai Đi Chăng Nữa, Có Làm Gì Đi Chăng Nữa. Nếu Có Phải Trả Giá Thì E Cũng Xin Chấp Nhận, Bởi Vì A Biết Đấy Ra Xã Hội Làm Ăn Bươn Chải Liều Thì Ăn Nhiều Không Liều Thì Ăn Ít Muốn Thành Công Thì Phải Trải Qua Đắng Cay Ngọt Bùi Ở Xã Hội Này Chỉ Có Chịu Khó, Cần Cù Thì Bù Siêng Năng Còn Những Cái Bọn Ko Làm Mà Đòi Có Ăn Thì Chỉ Có Ăn Đầu Buồi Ăn Cứt Thế Cho Nó Vuông𑁍"
+        },
+        {
+            "id": "100000074586911",
+            "count": 0,
+            "name": "Khai Huynh Quang"
+        }
+    ],
+    "time": 6
+}

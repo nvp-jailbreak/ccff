@@ -1,0 +1,555 @@
+{
+    "total": [
+        {
+            "id": "506611116",
+            "count": 0
+        },
+        {
+            "id": "100001526796949",
+            "count": 1
+        },
+        {
+            "id": "100017501988601",
+            "count": 0
+        },
+        {
+            "id": "100021446501428",
+            "count": 0
+        },
+        {
+            "id": "100024810739256",
+            "count": 0
+        },
+        {
+            "id": "100037850741047",
+            "count": 0
+        },
+        {
+            "id": "100038573051502",
+            "count": 0
+        },
+        {
+            "id": "100040091203753",
+            "count": 0
+        },
+        {
+            "id": "100043750064429",
+            "count": 0
+        },
+        {
+            "id": "100045757117282",
+            "count": 0
+        },
+        {
+            "id": "100046213663960",
+            "count": 8
+        },
+        {
+            "id": "100047547875346",
+            "count": 3
+        },
+        {
+            "id": "100049167614029",
+            "count": 0
+        },
+        {
+            "id": "100049962174076",
+            "count": 0
+        },
+        {
+            "id": "100051055305972",
+            "count": 0
+        },
+        {
+            "id": "100054473472611",
+            "count": 0
+        },
+        {
+            "id": "100054896527815",
+            "count": 1
+        },
+        {
+            "id": "100055087248845",
+            "count": 0
+        },
+        {
+            "id": "100055434852837",
+            "count": 0
+        },
+        {
+            "id": "100056581465528",
+            "count": 3
+        },
+        {
+            "id": "100066913000697",
+            "count": 0
+        },
+        {
+            "id": "100067028682654",
+            "count": 0
+        },
+        {
+            "id": "100067097114582",
+            "count": 0
+        },
+        {
+            "id": "100067894875332",
+            "count": 0
+        },
+        {
+            "id": "100068256031467",
+            "count": 0
+        },
+        {
+            "id": "100068381569067",
+            "count": 0
+        },
+        {
+            "id": "100070640035117",
+            "count": 24
+        },
+        {
+            "id": "100070929376249",
+            "count": 0
+        },
+        {
+            "id": "100071672236824",
+            "count": 0
+        },
+        {
+            "id": "100073539234235",
+            "count": 0
+        },
+        {
+            "id": "100075735068291",
+            "count": 1
+        },
+        {
+            "id": "100076321105224",
+            "count": 0
+        },
+        {
+            "id": "100076950330447",
+            "count": 0
+        },
+        {
+            "id": "100077599665669",
+            "count": 0
+        },
+        {
+            "id": "100077721399793",
+            "count": 0
+        },
+        {
+            "id": "100077982624865",
+            "count": 0
+        },
+        {
+            "id": "100079005305125",
+            "count": 0
+        },
+        {
+            "id": "100079085404540",
+            "count": 0
+        },
+        {
+            "id": "100080362745277",
+            "count": 0
+        }
+    ],
+    "week": [
+        {
+            "id": "506611116",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100001526796949",
+            "count": 1,
+            "name": "𓇻𓇬Dù E Có Sai Với Ai Đi Chăng Nữa, Có Làm Gì Đi Chăng Nữa. Nếu Có Phải Trả Giá Thì E Cũng Xin Chấp Nhận, Bởi Vì A Biết Đấy Ra Xã Hội Làm Ăn Bươn Chải Liều Thì Ăn Nhiều Không Liều Thì Ăn Ít Muốn Thành Công Thì Phải Trải Qua Đắng Cay Ngọt Bùi Ở Xã Hội Này Chỉ Có Chịu Khó, Cần Cù Thì Bù Siêng Năng Còn Những Cái Bọn Ko Làm Mà Đòi Có Ăn Thì Chỉ Có Ăn Đầu Buồi Ăn Cứt Thế Cho Nó Vuông𑁍"
+        },
+        {
+            "id": "100017501988601",
+            "count": 0,
+            "name": "Vũ Văn Bình"
+        },
+        {
+            "id": "100021446501428",
+            "count": 0,
+            "name": "Nguyễn Văn Phước"
+        },
+        {
+            "id": "100024810739256",
+            "count": 0,
+            "name": "Khánh Duy"
+        },
+        {
+            "id": "100037850741047",
+            "count": 0,
+            "name": "Duong DucQuan"
+        },
+        {
+            "id": "100038573051502",
+            "count": 0,
+            "name": "ʚHạ Nhược Zyyɞ"
+        },
+        {
+            "id": "100040091203753",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100043750064429",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100045757117282",
+            "count": 0,
+            "name": "Hoàng Dương"
+        },
+        {
+            "id": "100046213663960",
+            "count": 2,
+            "name": "Đình Lâm"
+        },
+        {
+            "id": "100047547875346",
+            "count": 2,
+            "name": "Chiến Phú Bình"
+        },
+        {
+            "id": "100049167614029",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100049962174076",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100051055305972",
+            "count": 0,
+            "name": "ʚQuách Tự Hyɞ"
+        },
+        {
+            "id": "100054473472611",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100054896527815",
+            "count": 0,
+            "name": "Le  Hoang"
+        },
+        {
+            "id": "100055087248845",
+            "count": 0,
+            "name": "NG Thu Phương"
+        },
+        {
+            "id": "100055434852837",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100056581465528",
+            "count": 3,
+            "name": "Vũ Tiến Nhật"
+        },
+        {
+            "id": "100066913000697",
+            "count": 0,
+            "name": "Khang Nhỏ Con"
+        },
+        {
+            "id": "100067028682654",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100067097114582",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100067894875332",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100068256031467",
+            "count": 0,
+            "name": "Trung Speed"
+        },
+        {
+            "id": "100068381569067",
+            "count": 0,
+            "name": "Khang Huynh"
+        },
+        {
+            "id": "100070640035117",
+            "count": 13,
+            "name": "AN RF Suong"
+        },
+        {
+            "id": "100070929376249",
+            "count": 0,
+            "name": "Khang Đình"
+        },
+        {
+            "id": "100071672236824",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100073539234235",
+            "count": 0,
+            "name": "Lưu Quang Vũ"
+        },
+        {
+            "id": "100075735068291",
+            "count": 0,
+            "name": "Phạm Sơn"
+        },
+        {
+            "id": "100076321105224",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100076950330447",
+            "count": 0,
+            "name": "Lê Văn Phong"
+        },
+        {
+            "id": "100077599665669",
+            "count": 0,
+            "name": "Đúngvậyemđẹpnhất Trênthếgiannày"
+        },
+        {
+            "id": "100077721399793",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100077982624865",
+            "count": 0,
+            "name": "Nguyen Văn Cao"
+        },
+        {
+            "id": "100079005305125",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100079085404540",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100080362745277",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "day": [
+        {
+            "id": "506611116",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100001526796949",
+            "count": 0,
+            "name": "𓇻𓇬Dù E Có Sai Với Ai Đi Chăng Nữa, Có Làm Gì Đi Chăng Nữa. Nếu Có Phải Trả Giá Thì E Cũng Xin Chấp Nhận, Bởi Vì A Biết Đấy Ra Xã Hội Làm Ăn Bươn Chải Liều Thì Ăn Nhiều Không Liều Thì Ăn Ít Muốn Thành Công Thì Phải Trải Qua Đắng Cay Ngọt Bùi Ở Xã Hội Này Chỉ Có Chịu Khó, Cần Cù Thì Bù Siêng Năng Còn Những Cái Bọn Ko Làm Mà Đòi Có Ăn Thì Chỉ Có Ăn Đầu Buồi Ăn Cứt Thế Cho Nó Vuông𑁍"
+        },
+        {
+            "id": "100017501988601",
+            "count": 0,
+            "name": "Vũ Văn Bình"
+        },
+        {
+            "id": "100021446501428",
+            "count": 0,
+            "name": "Nguyễn Văn Phước"
+        },
+        {
+            "id": "100024810739256",
+            "count": 0,
+            "name": "Khánh Duy"
+        },
+        {
+            "id": "100037850741047",
+            "count": 0,
+            "name": "Duong DucQuan"
+        },
+        {
+            "id": "100038573051502",
+            "count": 0,
+            "name": "ʚHạ Nhược Zyyɞ"
+        },
+        {
+            "id": "100040091203753",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100043750064429",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100045757117282",
+            "count": 0,
+            "name": "Hoàng Dương"
+        },
+        {
+            "id": "100046213663960",
+            "count": 0,
+            "name": "Đình Lâm"
+        },
+        {
+            "id": "100047547875346",
+            "count": 0,
+            "name": "Chiến Phú Bình"
+        },
+        {
+            "id": "100049167614029",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100049962174076",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100051055305972",
+            "count": 0,
+            "name": "ʚQuách Tự Hyɞ"
+        },
+        {
+            "id": "100054473472611",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100054896527815",
+            "count": 0,
+            "name": "Le  Hoang"
+        },
+        {
+            "id": "100055087248845",
+            "count": 0,
+            "name": "NG Thu Phương"
+        },
+        {
+            "id": "100055434852837",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100056581465528",
+            "count": 0,
+            "name": "Vũ Tiến Nhật"
+        },
+        {
+            "id": "100066913000697",
+            "count": 0,
+            "name": "Khang Nhỏ Con"
+        },
+        {
+            "id": "100067028682654",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100067097114582",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100067894875332",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100068256031467",
+            "count": 0,
+            "name": "Trung Speed"
+        },
+        {
+            "id": "100068381569067",
+            "count": 0,
+            "name": "Khang Huynh"
+        },
+        {
+            "id": "100070640035117",
+            "count": 2,
+            "name": "AN RF Suong"
+        },
+        {
+            "id": "100070929376249",
+            "count": 0,
+            "name": "Khang Đình"
+        },
+        {
+            "id": "100071672236824",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100073539234235",
+            "count": 0,
+            "name": "Lưu Quang Vũ"
+        },
+        {
+            "id": "100075735068291",
+            "count": 0,
+            "name": "Phạm Sơn"
+        },
+        {
+            "id": "100076321105224",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100076950330447",
+            "count": 0,
+            "name": "Lê Văn Phong"
+        },
+        {
+            "id": "100077599665669",
+            "count": 0,
+            "name": "Đúngvậyemđẹpnhất Trênthếgiannày"
+        },
+        {
+            "id": "100077721399793",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100077982624865",
+            "count": 0,
+            "name": "Nguyen Văn Cao"
+        },
+        {
+            "id": "100079005305125",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100079085404540",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100080362745277",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "time": 6
+}

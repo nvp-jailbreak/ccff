@@ -1,0 +1,20 @@
+{
+	"Language": "vi",
+	"PreKey": "",
+	"MainColor": "#9900FF",
+	"MainName": "[ NVP ]",
+	"Uptime": true,
+	"BroadCast": true,
+	"EncryptFeature": true,
+	"AutoRestartMinutes": 120,
+	"HTML": {
+		"UserName": "NVP",
+		"MusicLink": "",
+		"HTML": true
+	},
+	"AutoUpdate": true,
+	"AutoLogin": false,
+	"ResetDataLogin": false,
+	"Login2Fa": true,
+	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Use getUserInfoV2"
+}
